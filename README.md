@@ -27,6 +27,7 @@
 <div>
   <img src="./images/c.webp" style="width: 75px;">&emsp;
   <img src="./images/python.webp" style="width: 75px;">&emsp;
+  <img src="./images/java.webp" style="width: 75px;">&emsp;
   <img src="./images/js.webp" style="width: 75px;">&emsp;
   <img src="./images/html.webp" style="width: 75px;">&emsp;
   <img src="./images/css.webp" style="width: 75px;">&emsp;
@@ -34,20 +35,17 @@
   <img src="./images/my_sql.webp" style="width: 75px;">&emsp;
 </div>
 
+### 🧩 Frameworks
 
+<div>
+  <img src="./images/react.webp" style="width: 75px;">&emsp;
+  <img src="./images/boostrap.webp" style="width: 75px;">&emsp;
+  <img src="./images/tailwind.webp" style="width: 75px;">&emsp;
+</div>
 
+### 🔤 Idiomas
 
-<!--
-**Gonzalez-Luciano/Gonzalez-Luciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Inglés" width="20" height="15">&ensp;Ingles B2
 
-Here are some ideas to get you started:
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Español" width="20" height="15">&ensp;Español Nativo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
