@@ -16,15 +16,23 @@
 - Aprendo constantemente
 
 ## Contacto
-[![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianogonzalez12004@gmail.com)
-[![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gonzalez-luciano.netlify.app)
+[![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianogonzalez12004@gmail.com)&emsp;
+[![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gonzalez-luciano.netlify.app)&emsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-gonzález-590350294/)
 
 ## ⚡ Tecnologías
 
 ### 🚀 Lenguajes
 
-
+<div>
+  <img src="./images/c.webp" style="width: 75px;">&emsp;
+  <img src="./images/python.webp" style="width: 75px;">&emsp;
+  <img src="./images/js.webp" style="width: 75px;">&emsp;
+  <img src="./images/html.webp" style="width: 75px;">&emsp;
+  <img src="./images/css.webp" style="width: 75px;">&emsp;
+  <img src="./images/php.webp" style="width: 75px;">&emsp;
+  <img src="./images/my_sql.webp" style="width: 75px;">&emsp;
+</div>
 
 
 
