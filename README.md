@@ -5,15 +5,10 @@
 <img src="./images/Pixel-Art-Gallery.gif"> 
 
 ## Sobre mí
-- Trabajo en equipo
+Comencé mi aventura en la programación en 2022 y me apasioné de inmediato. Actualmente, estoy estudiando en la institución Iset, donde estoy perfeccionando mis habilidades en Programación Orientada a Objetos con Java.
 
-- Soy creativo
-  
-- Pasión por la programación
-  
-- Ingles B2
+Me considero un buen compañero de equipo, siempre dispuesto a colaborar y enfrentar nuevos desafíos. ¡Gracias por tomarte el tiempo de leer mi perfil! 🌟
 
-- Aprendo constantemente
 
 ## Contacto
 [![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianogonzalez12004@gmail.com)&emsp;
@@ -49,3 +44,5 @@
 
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Español" width="20" height="15">&ensp;Español Nativo
 
+## 📝 Trabajando en...
+![](./profile-3d-contrib/profile-night-rainbow.svg)
