@@ -45,4 +45,4 @@ Me considero un buen compañero de equipo, siempre dispuesto a colaborar y enfre
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Español" width="20" height="15">&ensp;Español Nativo
 
 ## 📝 Trabajando en...
-![](./profile-3d-contrib/profile-south-season.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
