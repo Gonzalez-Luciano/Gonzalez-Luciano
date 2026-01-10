@@ -12,7 +12,6 @@ Me considero un buen compañero de equipo, siempre dispuesto a colaborar y enfre
 
 ## Contacto
 [![Mail](https://img.shields.io/badge/Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianogonzalez12004@gmail.com)&emsp;
-[![Website](https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gonzalez-luciano.netlify.app)&emsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-gonzález-590350294/)
 
 ## ⚡ Tecnologías
